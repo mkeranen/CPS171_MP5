@@ -1,0 +1,143 @@
+Key Array:
+
+H A P I N
+E S B C D
+F G J K L
+M O Q R T
+U V W X Y
+
+************************************************************
+
+DECRYPT:  EVDEUOA XC GCERVLEWQ, FESS BC EUV OCWWAOX XLC HNUVRAV VCWWERS
+Decrypted:  advance to boardwalk, pass go and collect two hundred dollars
+
+
+************************************************************
+
+ENCRYPT:  hello there
+Encrypted:  HAWWC XHARA
+
+
+************************************************************
+
+DECRYPT:  HAWWC XHARA
+Decrypted:  hello there
+
+
+************************************************************
+
+ENCRYPT:  attack at dawn
+Encrypted:  EXXEOQ EX VELU
+
+
+************************************************************
+
+DECRYPT:  IAAX IA NUVAR HEIIARSIMXH GRMVBA
+Decrypted:  meet me under hammersmith bridge
+
+
+************************************************************
+
+ENCRYPT:  the meeting is in san francisco
+Encrypted:  XHA IAAXMUB MS MU SEU PREUOMSOC
+
+
+************************************************************
+
+DECRYPT:  XHMS MUPCRIEXMCU MS AUORYFXAV NSMUB XHA QAYLCRV HEFFMUASS
+Decrypted:  this information is encrypted using the keyword happiness
+
+
+************************************************************
+
+DECRYPT:  XHA EUSLAR XC XHA PMRSX KNASXMCU CU XHA PMUEW IEY GA XRNA CR MX IEY GA
+ PEWSA
+Decrypted:  the answer to the first question on the final may be true or it may
+be false
+
+
+************************************************************
+
+ENCRYPT:  the answer to the first question on the final may be true or it may be
+ false
+Encrypted:  XHA EUSLAR XC XHA PMRSX KNASXMCU CU XHA PMUEW IEY GA XRNA CR MX IEY
+GA PEWSA
+
+
+************************************************************
+
+DECRYPT:  OCUBREXNWEXMCUS YCN IEVA MX XHRCNBH XHMS IEOHMUA FRCGWAI
+Decrypted:  congratulations you made it through this machine problem
+
+
+************************************************************
+
+ENCRYPT:  advance to boardwalk, pass go and collect two hundred dollars
+Encrypted:  EVDEUOA XC GCERVLEWQ, FESS BC EUV OCWWAOX XLC HNUVRAV VCWWERS
+
+
+************************************************************
+
+ENCRYPT:  make my day
+Encrypted:  IEQA IY VEY
+
+
+************************************************************
+
+ENCRYPT:  zorro is back (in town)
+Encrypted:  zCRRC MS GEOQ (MU XCLU)
+
+
+************************************************************
+
+ENCRYPT:  you ain't nothing but a hound dog
+Encrypted:  YCN EMU'X UCXHMUB GNX E HCNUV VCB
+
+
+************************************************************
+
+ENCRYPT:  one day a computer will weigh less than a ton --- popular mechanics 19
+48
+Encrypted:  CUA VEY E OCIFNXAR LMWW LAMBH WASS XHEU E XCU --- FCFNWER IAOHEUMOS
+1948
+
+
+************************************************************
+
+ENCRYPT:  no computer will ever need more than 640k of memory -- bill gates in t
+he mid eighties
+Encrypted:  UC OCIFNXAR LMWW ADAR UAAV ICRA XHEU 640Q CP IAICRY -- GMWW BEXAS MU
+ XHA IMV AMBHXMAS
+
+
+************************************************************
+
+DECRYPT:  YCN EMUX UCXHMUB GNX E HCNUV VCB
+Decrypted:  you aint nothing but a hound dog
+
+
+************************************************************
+
+DECRYPT:  CUA VEY E OCIFNXAR LMWW LAMBH WASS XHEU E XCU --- FCFNWER IAOHEUMOS 19
+48
+Decrypted:  one day a computer will weigh less than a ton --- popular mechanics
+1948
+
+
+************************************************************
+
+DECRYPT:  UC OCIFNXAR LMWW ADAR UAAV ICRA XHEU 640Q CP IAICRY -- GMWW BEXAS MU X
+HA IMV AMB HXMAS
+Decrypted:  no computer will ever need more than 640k of memory -- bill gates in
+ the mid eig hties
+
+
+************************************************************
+
+ENCRYPT:  the attack will start in $"population" minutes
+Encrypted:  XHA EXXEOQ LMWW SXERX MU $"FCFNWEXMCU" IMUNXAS
+
+
+************************************************************
+
+Press any key to continue . . .
