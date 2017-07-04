@@ -11,7 +11,7 @@ used once in the two-dimensional array. Then the array is filled up with the rem
 (excluding the 'Z'). 
 
 Ex: Keyword HAPPINESS results in a key matrix:
-	0	1	2	3	4
+   0   1   2   3   4
 ---------------------
 0| H | A | P | I | N |
 ---------------------
@@ -29,7 +29,7 @@ A plain text message will be encrypted as follows:
 
 Each letter in the message will be found in the table, and the row and column will be noted. It will then be encrypted by reversing 
 the row and column values. Spaces between words will be maintained exactly as they appear in the message. A message that is already 
-encrypted can be decrypted using exactly the same algorithm – the only difference is that the incoming message will be in upper case 
+encrypted can be decrypted using exactly the same algorithm â€“ the only difference is that the incoming message will be in upper case 
 and the decrypted message will be in lower case.
 
 */
